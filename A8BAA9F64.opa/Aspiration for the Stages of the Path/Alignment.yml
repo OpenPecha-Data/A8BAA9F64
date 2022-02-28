@@ -1,0 +1,34 @@
+segment_sources:
+  P838D9DB6:
+    type: origin_type
+    relation: translation
+    language: en
+  P90DFF650:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  510ac3bf1b40464b88ac7bb68e214c96:
+    P838D9DB6: 7e70b0a5312f4cf38f8e90f1fcf94151
+    P90DFF650: ad1860c56e5941ddb3e67b7bd62dbae6
+  55401fd33fbf49fa8d78de2d9ce482bd:
+    P838D9DB6: e81a51b8329a40dda73e833817bb033e
+    P90DFF650: 429504aa987b411d9707dbc22a1a6a76
+  53586e8a295b42ffac8e4280355a5ef6:
+    P838D9DB6: 935dc36990e6425082f29a97c68101b5
+    P90DFF650: 61c9081b14d14626aaf1d5556c0e88c4
+  39af6d5858284f00b9adc131ada2edb9:
+    P838D9DB6: 027392df78e545d29ffff22dff3ada4e
+    P90DFF650: 8df9d6f88cf2428eac0a3f88f751b923
+  fabb393681bb4bcbbc5d3c81c90da822:
+    P838D9DB6: ea75c1f9c2e34c4a8c0cb0ac6292556d
+    P90DFF650: 23453f11277245bdaead98fb3fae30c6
+  717cf782435d4c92b4422f59eecdefc0:
+    P838D9DB6: e9300b391d46476b93df6a8d8fec3220
+    P90DFF650: c91f038532b6410fbef041211399626a
+  185308cd1f2d47dd99dd0d53931efb3a:
+    P838D9DB6: 8d235ad9c3c54e279759921e2e2bcaaf
+    P90DFF650: 89c5c19eafa044629380ce3dac08292c
+  d27c8fc31dab41a0a95b8bba2f205eeb:
+    P838D9DB6: 462bb547190d4e918dff990586ce381b
+    P90DFF650: c8075c882c3a4494a56a1526776133c7
